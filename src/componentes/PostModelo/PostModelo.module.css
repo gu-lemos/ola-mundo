@@ -28,10 +28,39 @@
 .postConteudoContainer {
     padding: 2.5rem 7.5rem 4.5rem;
 }
+
+.outrosPostsContainer {
+    width: 100%;
+    padding: 0 7.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.outrosPostsTitulo {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 2.5rem;
+    color: #444444;
+    margin-bottom: 2rem;
+}
+
+.listaOutrosPosts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
  
 @media (max-width: 744px) {
     .postConteudoContainer {
         padding: 2rem 1.5rem 1.5rem;
+    }
+
+    .outrosPostsContainer {
+        padding: 2rem 1rem 1.5rem;
+    }
+
+    .outrosPostsTitulo {
+        font-size: 1.5rem;
+        line-height: 2rem;
     }
 }
  

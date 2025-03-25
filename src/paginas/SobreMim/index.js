@@ -21,23 +21,18 @@ export default function SobreMim() {
             />
 
             <p className={styles.paragrafo}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Olá! Meu nome é Gustavo Lemos, tenho 22 anos e sou formado em Sistemas de Informação pela FIAP. Sou programador full-stack, atuando principalmente com .NET no back-end e React.js no front-end.
             </p>
+
             <p className={styles.paragrafo}>
-                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                Sou apaixonado por tecnologia e estou sempre buscando aprimorar minhas habilidades. Atualmente, estudo na Alura para aprofundar meus conhecimentos e explorar novas ferramentas que possam agregar ao meu dia a dia como desenvolvedor.
             </p>
+
             <p className={styles.paragrafo}>
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.
+                Acredito que escrever código vai além de simplesmente desenvolver funcionalidades. Para mim, é sobre criar soluções eficientes, escaláveis e de fácil manutenção. Gosto de desafios e estou sempre disposto a aprender algo novo.
             </p>
-            <p className={styles.paragrafo}>
-                Pellentesque in libero id felis ultrices scelerisque. Proin venenatis magna in lorem consequat, eget facilisis lectus suscipit.
-            </p>
-            <p className={styles.paragrafo}>
-                Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer eu neque id velit convallis interdum.
-            </p>
-            <p className={styles.paragrafo}>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-            </p>
+            
+            <p className={styles.paragrafo}> A cada linha de código, uma nova oportunidade de criar, inovar e evoluir! 🚀 </p>
 
         </PostModelo>
     )

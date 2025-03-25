@@ -7,11 +7,11 @@ export default function Banner() {
         <div className={styles.banner}>
             <div className={styles.apresentacao}>
                 <h1 className={StyleSheet.titulo}>
-                    Olá. Mundo!
+                    Bem-vindo!
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu projetinho React! Eu sou Gustavo Lemos, estudante de front-end da Alura.
+                    Desenvolvi este projeto utilizando React Router para gerenciar a navegação de forma eficiente e fluida. A ideia foi criar uma estrutura de rotas declarativas, permitindo a transição entre páginas sem recarregar a aplicação.
                 </p>
             </div>
 
